@@ -1,1 +1,1 @@
-# Data Science Projects
+# SoftUni AI module
